@@ -1,0 +1,11 @@
+M by N: 10 15
+turns: 300
+robots: 8
+RoboCop RC01_Star 1 1
+RoboCop RC02_Star 0 6
+RoboCop RC03_Star 0 9
+RoboCop RC04_Star 5 1
+Terminator T01_Alpha 6 0
+Terminator T02_Alpha 6 1
+Terminator T03_Alpha 5 0
+Terminator T04_Alpha 4 2
