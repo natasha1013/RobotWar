@@ -1,0 +1,10 @@
+M by N: 10 15
+turns: 100
+robots: 7
+RoboCop		   RC01_Star   random   random
+Terminator         T01_Alpha   2 	2
+TerminatorRoboCop  TR01_Gamma  3        3 
+BlueThunder 	   BT01_Beta   random   random
+Madbot      	   MB01_Kidd   1 	1
+RoboTank 	   RT01_Jet    1 	2
+UltimateRobot      UR01_Delta  random   random
