@@ -1,0 +1,9 @@
+M by N: 10 15
+turns: 300
+robots: 6
+RoboCop            RC01_Star     random  random
+RoboCop            RC02_Star     random  random
+RoboTank           RT01_Jet      1       1
+TerminatorRoboCop  TR02_Gamma    5       8
+RobotTeleport TP01_Mega random random 
+RobotTeleport TP02_Mega random random 
