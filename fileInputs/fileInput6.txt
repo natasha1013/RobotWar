@@ -1,0 +1,9 @@
+M by N: 10 15
+turns: 500
+robots: 6
+Madbot MB01_Kidd 7 1
+Madbot MB02_Kidd 7 0
+Madbot MB03_Kidd 8 0
+RoboTank RT01_Beta 2 4 
+RoboTank RT02_Beta 2 14
+RoboTank RT03_Beta 6 10
