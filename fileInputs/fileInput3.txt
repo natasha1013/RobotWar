@@ -1,0 +1,6 @@
+M by N: 10 15
+turns: 50
+robots: 3
+RobotBomber RB09_Hehe 9 12
+RobotTeleport RP01_Test 3 11
+RobotLaser RL98_Jet 1 13
