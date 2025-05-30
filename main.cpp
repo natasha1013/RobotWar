@@ -1,21 +1,3 @@
-// *********************************************************
-// Program: main.cpp
-// Course: CCP6124 OOPDS
-// Lecture Class: TC3L
-// Tutorial Class: T11L
-// Trimester: 2410
-// Member_1: 1211108521 | DAMIA ALYSSA BINTI ADAM SIM | 1211108521@student.mmu.edu.my | +6012-695 7989
-// Member_2: 1211108251 | MAYA BINTI MOHAMMAD AMIR HAMZAH | 1211108251@student.mmu.edu.my | +6012-984 0002
-// Member_3: 1211107915 | MOHAMED IRFAN ISMAIL BIN MOHAMED AMIN | 1211107915@student.mmu.edu.my | +6011-6091 9551
-// Member_4: 1211110223 | NUR ALEYA NATASHA BINTI YASIR | 1211110223@student.mmu.edu.my | +6012-640 4524
-// *********************************************************
-// Task Distribution
-// Member_1: ReadFile, OutputFile, LinkedList,RoboTank, RobotBomber
-// Member_2: Queuing Waiting Robots, Queuing Destroyed Robots, UltimateRobot, RobotLaser
-// Member_3: Terminator, BlueThunder, MadBot, RobotTeleport
-// Member_4: UML Diagram, Queueing Reviving Robots, RoboCop, TerminatorRoboCop
-// *********************************************************
-
 #include <iostream>
 #include <fstream>
 #include <iomanip>
